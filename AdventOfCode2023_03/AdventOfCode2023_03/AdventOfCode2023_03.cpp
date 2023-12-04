@@ -5,7 +5,7 @@
 #include <list>
 
 /*
------ ----- ----- ----- ----- AVENT OF CODE 2023 - DAY 1 ----- ----- ----- ----- -----
+----- ----- ----- ----- ----- AVENT OF CODE 2023 - DAY 3 ----- ----- ----- ----- -----
 ----- ----- PART 1 ----- -----
 The engine schematic (your puzzle input) consists of a visual representation of the engine. There are lots of numbers and symbols you don't really
 understand, but apparently any number adjacent to a symbol, even diagonally, is a "part number" and should be included in your sum. (Periods (.) do not
@@ -20,7 +20,7 @@ gear ratio is the result of multiplying those two numbers together.
 
 What is the sum of all of the gear ratios in your engine schematic?
 ----- ----- PART 2 ----- -----
------ ----- ----- ----- ----- AVENT OF CODE 2023 - DAY 1 ----- ----- ----- ----- -----
+----- ----- ----- ----- ----- AVENT OF CODE 2023 - DAY 3 ----- ----- ----- ----- -----
 */
 
 std::string CheckLeft(int checkingI, int checkingJ, std::vector<std::string>& input)
