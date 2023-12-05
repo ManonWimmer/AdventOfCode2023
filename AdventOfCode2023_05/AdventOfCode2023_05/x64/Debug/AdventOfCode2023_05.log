@@ -1,0 +1,8 @@
+﻿  AdventOfCode2023_05.cpp
+C:\Users\manon\Documents\Cours - IIM\A2\Side Quests\AdventOfCode\05\AdventOfCode2023_05\AdventOfCode2023_05\AdventOfCode2023_05.cpp(229,27): warning C4244: 'initialisation' : conversion de '_Ty' en 'int', perte possible de données
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\manon\Documents\Cours - IIM\A2\Side Quests\AdventOfCode\05\AdventOfCode2023_05\AdventOfCode2023_05\AdventOfCode2023_05.cpp(231,44): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+  AdventOfCode2023_05.vcxproj -> C:\Users\manon\Documents\Cours - IIM\A2\Side Quests\AdventOfCode\05\AdventOfCode2023_05\x64\Debug\AdventOfCode2023_05.exe
