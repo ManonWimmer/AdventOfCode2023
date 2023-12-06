@@ -1,0 +1,7 @@
+﻿  AdventOfCode2023_06.cpp
+C:\Users\manon\Documents\Cours - IIM\A2\Side Quests\AdventOfCode\06\AdventOfCode2023_06\AdventOfCode2023_06\AdventOfCode2023_06.cpp(152,61): warning C4267: 'argument' : conversion de 'size_t' en '_Ty', perte possible de données
+          with
+          [
+              _Ty=int
+          ]
+  AdventOfCode2023_06.vcxproj -> C:\Users\manon\Documents\Cours - IIM\A2\Side Quests\AdventOfCode\06\AdventOfCode2023_06\x64\Debug\AdventOfCode2023_06.exe
