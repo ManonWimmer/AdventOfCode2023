@@ -1,0 +1,3 @@
+﻿  AdventOfCode2023_07.cpp
+C:\Users\manon\Documents\Cours - IIM\A2\Side Quests\AdventOfCode\07\AdventOfCode2023_07\AdventOfCode2023_07\AdventOfCode2023_07.cpp(39): warning C4715: 'HandTypeToStr' : les chemins de contrôle ne retournent pas tous une valeur
+  AdventOfCode2023_07.vcxproj -> C:\Users\manon\Documents\Cours - IIM\A2\Side Quests\AdventOfCode\07\AdventOfCode2023_07\x64\Debug\AdventOfCode2023_07.exe
